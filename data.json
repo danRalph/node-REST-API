@@ -1,0 +1,54 @@
+{
+  "records": [
+    {
+      "id": 8721,
+      "quote": "Frankly, my dear, I don't give a damn.",
+      "film": "Gone With the Wind, 1939"
+    },
+    {
+      "id": 5779,
+      "quote": "You're gonna need a bigger boat.",
+      "film": "Jaws, 1975"
+    },
+    {
+      "id": 3406,
+      "quote": "I'm going to make him an offer he can't refuse.",
+      "film": "The Godfather, 1972"
+    },
+    {
+      "id": 5657,
+      "quote": "The first rule of Fight Club is: You do not talk about Fight Club.",
+      "film": "Fight Club, 1999"
+    },
+    {
+      "id": 8574,
+      "quote": "You talkin' to me?",
+      "film": "Taxi Driver, 1976"
+    },
+    {
+      "id": 2569,
+      "quote": "Why so serious?",
+      "film": "The Dark Knight, 2008"
+    },
+    {
+      "id": 6974,
+      "quote": "I'll be back.",
+      "film": "The Terminator, 1984"
+    },
+    {
+      "id": 7849,
+      "quote": "Wax on, wax off.",
+      "film": "The Karate Kid, 1984"
+    },
+    {
+      "id": 4781,
+      "quote": "Get your stinking paws off me, you damned dirty ape!",
+      "film": "Planet of the Apes, 1968"
+    },
+    {
+      "id": 2198,
+      "quote": "I'm having an old friend for dinner.",
+      "film": "The Silence of the Lambs, 1991"
+    }
+  ]
+}
